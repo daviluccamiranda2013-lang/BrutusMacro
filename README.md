@@ -1,5 +1,9 @@
 <h1 align="center">Brutus Macro</h1>
 
-Macro made for Brutus Rng, the macro detect biomes and sent it to discord with webhook
+<p align="center">
+  Macro for Brutus RNG on Roblox. Detects biomes, includes anti-AFK, and sends notifications to Discord.
+</p>
 
-![Tela do Brutus Macro](Icon.png)
+<p align="center">
+  <img src="Icon.png" alt="Brutus Macro" width="220">
+</p>
